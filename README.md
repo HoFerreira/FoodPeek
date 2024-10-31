@@ -1,4 +1,4 @@
-### **Landing Page de Lanches: Food Peek**
+### Landing Page de Lanches: Food Peek
 
 A landing page do Food Peek combina um design atrativo com uma paleta de cores vibrantes que destacam a essência de um serviço de entrega de lanches. Com um foco em uma experiência de usuário suave, a página apresenta imagens apetitosas e um layout que convida à ação.
 
